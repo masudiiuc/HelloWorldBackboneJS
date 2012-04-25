@@ -15,7 +15,8 @@
     //define product model
     var Contact = Backbone.Model.extend({
         defaults: {
-            photo: "images/placeholder.png"
+            photo: "images/placeholder.png",
+            web: "http://www.ecofriendlyparty.com"
         }
     });
 

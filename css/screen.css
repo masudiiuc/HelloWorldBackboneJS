@@ -1,0 +1,41 @@
+
+.contact-container{
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+    box-shadow: 1px 1px 2px #b6b6b6;
+    width: 300px;
+    margin: 5px;
+    padding: 10px;
+    height: 220px;
+    float: left;
+}
+h1{
+    display: block;
+    float: right;
+    width: 190px;
+}
+
+h1 span{
+    font-size:10px;
+    background-color: #6495ed;
+    padding: 3px 5px;
+    border-radius: 4px;
+    color:white;
+    font-family: "Lucida Grande";
+    float: right;
+    margin-top: 2px;
+}
+
+dl dt, dl dd{
+    float:left;
+    padding: 3px;
+}
+dl dt{
+    width: 50px;
+    text-align: right;
+}
+
+dl dd{
+    width: 220px;
+    margin-left: 5px;
+}
